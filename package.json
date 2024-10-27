@@ -15,7 +15,8 @@
   },
   "type": "module",
   "dependencies": {
-    "@evidence-dev/core-components": "^4.8.6",
-    "@evidence-dev/evidence": "^39.1.10"
+    "@evidence-dev/core-components": "^4.8.8",
+    "@evidence-dev/evidence": "^39.1.12",
+    "posthog-js": "^1.176.0"
   }
 }
